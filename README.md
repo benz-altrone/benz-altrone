@@ -74,4 +74,4 @@
   🚀 "Code is like humor. When you have to explain it, it’s bad." — Cory House
 </p>
 
-<p align="center">Made with ❤️ by <strong>Rahul Yadav</strong></p>
+<p align="center">Made with ❤️ by <strong>Benz Altrone</strong></p>
