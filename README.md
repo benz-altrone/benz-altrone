@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benz-altrone&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul-innopad&theme=radical&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benz-altrone&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benz-altrone&exclude_repo=KNN-ImageClassification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahul-innopad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-innopad&exclude_repo=KNN-ImageClassification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default" />
 
 </p>
 
@@ -52,21 +52,21 @@
 ## 📊 Tools & Frameworks Radar
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benz-altrone&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benz-altrone&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-innopad&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-innopad&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=benz-altrone&theme=radical&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahul-innopad&theme=radical&utcOffset=8" />
 </p>
 
 ---
 ## 📈 GitHub Contribution Graph
- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=benz-altrone&theme=react-dark&area=true&hide_border=true" /> </p>
+ <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-innopad&theme=react-dark&area=true&hide_border=true" /> </p>
 ---
 
 ## 📫 Connect With Me
-- 💻 [**GitHub**](https://github.com/benz-altrone) 
+- 💻 [**GitHub**](https://github.com/rahul-innopad) 
 ---
 
 
