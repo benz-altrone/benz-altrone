@@ -135,9 +135,8 @@ To contribute as a **Full Stack / .NET Developer** in a growth-oriented organiza
 
 ## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-innopad&theme=react-dark&area=true&hide_border=true" />
-</p>
+ <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-innopad&theme=react-dark&area=true&hide_border=true" /> </p>
+
 
 ---
 
